@@ -32,8 +32,8 @@
     "Gateway"
   ],
   "peerDependencies": {
-    "react": "^15.0.0 || ^18.0.0",
-    "react-dom": "^15.0.0 || ^18.0.0"
+    "react": "^15.0.0 || ^18.0.0 || ^19",
+    "react-dom": "^15.0.0 || ^18.0.0 || ^19"
   },
   "devDependencies": {
     "@babel/core": "^7.15.0",
